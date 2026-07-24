@@ -92,3 +92,20 @@ page_data:
       url: "https://www.w3schools.com/"
       info: "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many more."
 ---
+# Links
+
+## Contact
+
+You can contact me by email at:
+
+iaryland@uncg.edu
+
+## Resume / CV
+
+Click below to view my resume.
+
+<p>
+  <a href="/assets/Irada_Ryland_CV.pdf" target="_blank" style="display: inline-block; padding: 12px 18px; background-color: #4d9cff; color: white; text-decoration: none; border-radius: 8px; font-weight: bold;">
+    View My Resume/CV
+  </a>
+</p>
