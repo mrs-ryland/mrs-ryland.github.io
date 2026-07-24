@@ -13,9 +13,9 @@ name: "Irada Ryland"
 # home page top header texts
 home:
   # you can also use $site_brand, $site_greetings, $site_welcome in line1 and line2 for replacing texts.
-  top_header_line1: "Welcome"
+  top_header_line1: "Where culture and learning"
   # if commented, top header will be a single line
-  top_header_line2: "Irada Ryland"
+  top_header_line2: "come together"
 
 # about page sub title
 about:
