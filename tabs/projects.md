@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: about
 lng_pair: id_projects
+title: Projects
+button_name: Projects
+icon: "fa fa-cog"
 image_viewer_on: true
 image_lazy_loader_on: true
 ---
