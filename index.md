@@ -39,7 +39,6 @@ img: ":home-heading.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+# Welcome to My Portfolio
 
-{{ website_info_text_second }}
+Hello, my name is Irada. I am a Thai language instructor and a graduate student in Instructional Technology and Design at UNC Greensboro. This website shares my professional background, teaching experience, instructional design projects, and examples of my work.
