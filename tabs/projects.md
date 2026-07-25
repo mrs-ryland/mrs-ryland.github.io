@@ -16,16 +16,40 @@ image_lazy_loader_on: true
 
 This section includes examples of my website production and usability work from LIS 636.
 
-## Usability Report
+### The Law of UX
 
-I completed a usability report for the Cumberland County Public Library website. The report included think-aloud testing, card sorting, usability findings, and recommendations for improving the website.
+For this project, I evaluated a library website using one of the Laws of UX. This assignment helped me think about how design choices affect how users find information and complete tasks on a website.
+
+<p style="text-align: center;">
+  <a href="/assets/The_Law_of_UX.pdf" target="_blank" style="display: inline-block; padding: 12px 20px; background-color: #d4af37; color: black; text-decoration: none; border-radius: 8px; font-weight: bold;">
+    View The Law of UX Project
+  </a>
+</p>
+
+### Usability Report
+
+For this project, I completed a usability report for the Cumberland County Public Library website. The report included think-aloud testing, card sorting, usability findings, and recommendations for improving the website.
+
+<p style="text-align: center;">
+  <a href="/assets/Usability_Report.pdf" target="_blank" style="display: inline-block; padding: 12px 20px; background-color: #d4af37; color: black; text-decoration: none; border-radius: 8px; font-weight: bold;">
+    View Usability Report
+  </a>
+</p>
 
 ## Instructional Design Projects
 
-This section will include examples of instructional design work, lesson materials, and learning activities I create during my graduate program.
+This section includes examples of my instructional design work, lesson materials, and learning activities I created during my graduate program.
+
+<p style="text-align: center;">
+  <a href="https://mrsamyryland.wixsite.com/ryland678coursework" target="_blank" style="display: inline-block; padding: 12px 20px; background-color: #d4af37; color: black; text-decoration: none; border-radius: 8px; font-weight: bold;">
+    View My Online Portfolio
+  </a>
+</p>
 
 ## Thai Teaching Materials
 
-<img src="/assets/thai-flag-map.png" alt="Thai flag on a map of Thailand" style="width: 300px; border-radius: 12px; margin-bottom: 15px;">
+This section includes examples of Thai language teaching materials, cultural learning activities, and language practice resources. Below is a video I created about Songkran, the Thai New Year festival.
 
-This section will include examples of Thai language teaching materials, cultural learning activities, and language practice resources.
+<div style="text-align: center; margin-top: 20px;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tf7DGcz0Eqo?si=rJr7B3PuXLtpnWLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
