@@ -7,6 +7,15 @@ icon: "fa fa-cog"
 image_viewer_on: true
 image_lazy_loader_on: true
 ---
+<style>
+/* Change the top name heading to gold on this page */
+main h1:first-of-type,
+.multipurpose-container h1:first-of-type,
+.about h1:first-of-type,
+article h1:first-of-type {
+  color: #d4af37 !important;
+}
+</style>
 <div style="text-align: center;">
   <img src="/assets/irada-cartoon.png" alt="Cartoon image of Irada Ryland" style="width: 350px; border-radius: 12px; margin-bottom: 25px;">
 </div>
