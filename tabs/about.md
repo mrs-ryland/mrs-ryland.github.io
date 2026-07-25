@@ -4,7 +4,7 @@ layout: about
 lng_pair: id_about
 
 # image for page specific usage
-img: ":about.jpg"
+img: "/assets/thai-flag-map.png"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
@@ -37,7 +37,14 @@ img: ":about.jpg"
 ---
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
-
+<style>
+/* Gold color for the name heading on this page */
+h1:first-of-type,
+.about h1:first-of-type,
+.multipurpose-container h1:first-of-type {
+  color: #d4af37 !important;
+}
+</style>
 # About Me
 
 <div style="text-align: center;">
