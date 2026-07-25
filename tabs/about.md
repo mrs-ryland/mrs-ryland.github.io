@@ -40,7 +40,9 @@ img: ":about.jpg"
 
 # About Me
 
-<img src="/assets/irada-headshot.png" alt="Professional photo of Irada Ryland" style="width: 220px; border-radius: 12px; margin-bottom: 20px;">
+<div style="text-align: center;">
+  <img src="/assets/irada-headshot.png" alt="Professional photo of Irada Ryland" style="width: 260px; border-radius: 12px; margin-bottom: 25px;">
+</div>
 
 Hello, my name is Irada Ryland. I am a Thai language instructor and a graduate student in Instructional Technology and Design at UNC Greensboro.
 
