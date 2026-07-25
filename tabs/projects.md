@@ -7,7 +7,9 @@ icon: "fa fa-cog"
 image_viewer_on: true
 image_lazy_loader_on: true
 ---
-<img src="/assets/irada-cartoon.png" alt="Cartoon-style image representing Irada Ryland's teaching and learning journey" style="width: 300px; border-radius: 12px; margin-bottom: 20px;">
+<div style="text-align: center;">
+  <img src="/assets/irada-cartoon.png" alt="Cartoon image of Irada Ryland" style="width: 350px; border-radius: 12px; margin-bottom: 25px;">
+</div>
 # Projects
 
 ## LIS 636 Website Assignments
