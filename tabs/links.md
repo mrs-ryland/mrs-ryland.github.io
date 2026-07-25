@@ -58,7 +58,7 @@ strong,
 
 You can contact me by email at:
 
-**iaryland@uncg.edu**
+iaryland@uncg.edu
 
 <h1 class="links-section-heading">Resume / CV</h1>
 
