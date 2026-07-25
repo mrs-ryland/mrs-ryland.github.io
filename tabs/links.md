@@ -9,16 +9,28 @@ image_lazy_loader_on: true
 ---
 
 <style>
-/* Gold theme for this page */
-h1:first-of-type {
-  color: #d4af37 !important;
+/* Make all text on this page white */
+h1,
+h2,
+h3,
+p,
+strong,
+a,
+.multipurpose-container,
+.multipurpose-container *,
+.about,
+.about *,
+.page-heading,
+.page-heading * {
+  color: #ffffff !important;
 }
 
+/* Gold button with white text */
 .resume-button {
   display: inline-block;
   padding: 12px 20px;
   background-color: #d4af37;
-  color: #111111 !important;
+  color: #ffffff !important;
   text-decoration: none;
   border-radius: 8px;
   font-weight: bold;
@@ -26,20 +38,18 @@ h1:first-of-type {
 }
 
 .resume-button:hover {
-  background-color: #f0c75e;
-  color: #111111 !important;
+  background-color: #b8942f;
+  color: #ffffff !important;
 }
 </style>
 
-# Contact
-
-<h1 style="color: #ffffff !important;">Contact</h1>
+<h1>Contact</h1>
 
 You can contact me by email at:
 
 **iaryland@uncg.edu**
 
-# Resume / CV
+<h1>Resume / CV</h1>
 
 My resume includes my experience in Thai language instruction, online teaching, cultural training, and instructional design.
 
@@ -49,6 +59,6 @@ My resume includes my experience in Thai language instruction, online teaching, 
   </a>
 </p>
 
-# Professional Portfolio
+<h1>Professional Portfolio</h1>
 
 This website shares my professional background, teaching experience, instructional design projects, and examples of my work.
