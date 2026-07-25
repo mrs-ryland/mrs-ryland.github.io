@@ -128,3 +128,19 @@
 .top-nav .top-nav-menu-toggle:hover {
   opacity: 1;
 }
+/* Gold color for the name under the circle profile picture */
+nav a,
+nav .brand,
+nav .brand a,
+nav .site-title,
+nav .site-title a,
+nav .side-nav-brand,
+nav .side-nav-brand a,
+#side-nav a,
+#side-nav .brand,
+#side-nav .brand a,
+.navigation a[href="/"],
+.navigation .brand,
+.navigation .site-title {
+  color: #d4af37 !important;
+}
