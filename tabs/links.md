@@ -9,28 +9,37 @@ image_lazy_loader_on: true
 ---
 
 <style>
-/* Make all text on this page white */
-h1,
-h2,
-h3,
-p,
-strong,
-a,
-.multipurpose-container,
-.multipurpose-container *,
-.about,
-.about *,
-.page-heading,
-.page-heading * {
+/* Make the generated Irada Ryland heading gold */
+h1:first-of-type,
+h1:first-of-type a,
+.multipurpose-container h1:first-of-type,
+.multipurpose-container h1:first-of-type a,
+.about h1:first-of-type,
+.about h1:first-of-type a,
+.page-heading h1,
+.page-heading h1 a {
+  color: #d4af37 !important;
+}
+
+/* Make the page section headings white */
+h1.links-section-heading {
   color: #ffffff !important;
 }
 
-/* Gold button with white text */
+/* Make regular page text white */
+p,
+strong,
+.links-page-text,
+.links-page-text * {
+  color: #ffffff !important;
+}
+
+/* Gold button */
 .resume-button {
   display: inline-block;
   padding: 12px 20px;
   background-color: #d4af37;
-  color: #ffffff !important;
+  color: #111111 !important;
   text-decoration: none;
   border-radius: 8px;
   font-weight: bold;
@@ -38,18 +47,20 @@ a,
 }
 
 .resume-button:hover {
-  background-color: #b8942f;
-  color: #ffffff !important;
+  background-color: #f0c75e;
+  color: #111111 !important;
 }
 </style>
 
-<h1>Contact</h1>
+<div class="links-page-text">
+
+<h1 class="links-section-heading">Contact</h1>
 
 You can contact me by email at:
 
 **iaryland@uncg.edu**
 
-<h1>Resume / CV</h1>
+<h1 class="links-section-heading">Resume / CV</h1>
 
 My resume includes my experience in Thai language instruction, online teaching, cultural training, and instructional design.
 
@@ -59,6 +70,8 @@ My resume includes my experience in Thai language instruction, online teaching, 
   </a>
 </p>
 
-<h1>Professional Portfolio</h1>
+<h1 class="links-section-heading">Professional Portfolio</h1>
 
 This website shares my professional background, teaching experience, instructional design projects, and examples of my work.
+
+</div>
