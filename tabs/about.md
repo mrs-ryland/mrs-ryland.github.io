@@ -39,13 +39,16 @@ img: "/assets/thai-flag-map.png"
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 <style>
 /* Gold color for the name heading on this page */
+<style>
+/* Gold color for the name heading on this page */
 h1:first-of-type,
 .about h1:first-of-type,
 .multipurpose-container h1:first-of-type {
   color: #d4af37 !important;
 }
 </style>
-# About Me
+
+<h1 style="color: #ffffff !important;">About Me</h1>
 
 <div style="text-align: center;">
   <img src="/assets/irada-headshot.png" alt="Professional photo of Irada Ryland" style="width: 260px; border-radius: 12px; margin-bottom: 25px;">
