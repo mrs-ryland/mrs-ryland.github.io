@@ -33,6 +33,8 @@ h1:first-of-type {
 
 # Contact
 
+<h1 style="color: #ffffff !important;">Contact</h1>
+
 You can contact me by email at:
 
 **iaryland@uncg.edu**
